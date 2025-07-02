@@ -3,3 +3,5 @@ This repo is automatically updated daily with the latest available apps from the
 Last updated: 02/07/2025
 
 Number of apps: 1440
+
+Click on the eta.csv file to see the list of available apps.
