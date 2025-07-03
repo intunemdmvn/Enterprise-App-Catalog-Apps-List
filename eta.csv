@@ -1,3 +1,4 @@
+#TYPE System.Management.Automation.PSCustomObject
 "ProductId","ProductDisplayName","PublisherDisplayName","VersionDisplayName"
 "14d22241-3009-3e61-aab9-371adb91a74b","Gephi","Gephi","0.10.1"
 "1ffbe120-560f-a04b-1a99-3711cd78b656","SideQuest","SideQuest","0.10.42"
