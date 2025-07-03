@@ -1,6 +1,6 @@
 This repo is automatically updated daily with the latest available apps from the Enterprise App Catalog in Microsoft Intune.
 
-Last updated: Thursday 03/07/2025 21:35
+Last updated: Thursday 03/07/2025 21:39
 
 Number of apps: 1440
 
